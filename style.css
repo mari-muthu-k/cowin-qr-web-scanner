@@ -1,0 +1,20 @@
+body::-webkit-scrollbar {
+    display: none;
+  }
+  body{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    overflow-y:hidden;
+  } 
+  .scanner{
+          height:100%;
+          width:100%;
+    }
+  .switch{
+    position:absolute;
+    padding:1%;
+    width:5%;
+    fill: rgb(235, 226, 226);
+    opacity:0;
+    z-index: 1;
+  }
