@@ -1,0 +1,1 @@
+# cowin-qr-web-scanner
